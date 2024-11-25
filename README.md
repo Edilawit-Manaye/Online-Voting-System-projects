@@ -5,7 +5,5 @@ the integrity and confidentiality of votes. Technologies Used
 Frontend: HTML, CSS, JavaScript
 Backend: PHP
 Database: MySQL Features
-User Registration: Easy sign-up for voters.
-Secure Voting: Anonymity and integrity in casting votes.
-Admin Panel: Management of the voting process and results.
-Real-Time Results: Immediate display of election outcomes.
+
+
